@@ -1,4 +1,4 @@
-# bootstrap-wp-nav-walker-updated
+# bootstrap-wp-nav-walker-updated with fontawesome icon
 How to use
 
 ```
