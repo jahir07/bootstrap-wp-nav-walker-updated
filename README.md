@@ -14,6 +14,5 @@ $args = array(
 								'fallback_cb'       => 'bootstrap_wp_navwalker::fallback',
 								'walker'            => new bootstrap_wp_navwalker()
 								);
-
-							wp_nav_menu( $args );
+	wp_nav_menu( $args );
 ```
